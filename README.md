@@ -1,5 +1,10 @@
 # MIT_WEEK_4
 
+<style>
+    p {
+      text-indent: 1rem;
+    }
+  </style>
 
 ## Description:
   <p>This is assignment from ***Professional Certificate in Coding: Full Stack Development with MERN*** Week4.
