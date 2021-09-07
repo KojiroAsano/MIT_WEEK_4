@@ -11,7 +11,7 @@
     1. **images** <br>
     2. **index.html** <br>
     3. **pacman.js** <br>
-  2. Run on the Web browser.
+  2. Click **index.html** and run on the Web browser.
   
 ## Usage:
   If successfully installed and run on the Web browser, the pac-man appear on the browser, and moves to right to left and left to right every 200 mil sec.
