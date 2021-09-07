@@ -8,9 +8,9 @@
 
 ## Installation:
   1. Donloads each file into one file. <br>
-    1. **images**
-    2. **index.html**
-    3. **pacman.js**
+    1. **images** <br>
+    2. **index.html** <br>
+    3. **pacman.js** <br>
   2. Run on the Web browser.
   
 ## Usage:
